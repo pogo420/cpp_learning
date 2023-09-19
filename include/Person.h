@@ -8,5 +8,5 @@ class Person
     public:
         Person(unsigned age, const char* name);
         bool IsAdult();
-    const char* Name();
+        const char* Name();
 };
